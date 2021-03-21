@@ -9,9 +9,9 @@ from banks to news websites, and present a major challenge to making sure people
 
 ### git clone https://github.com/cybsam/py-ddos.git
 
-### cd DDos-Attack
+### cd py-ddos
 
-### chmod +x ddos-attack.py
+### chmod +x ddos.py
 
-### python ddos-attack.py
+### python ddos.py
 
